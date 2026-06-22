@@ -1,3 +1,4 @@
+
 // 1. Students older than 22
 db.students.find({ age: { $gt: 22 } });
 
